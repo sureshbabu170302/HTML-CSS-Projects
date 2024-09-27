@@ -57,3 +57,23 @@ input {
   background-color: black;
   color: white;
 }
+
+.about {
+  margin: 1.8%;
+  text-align: center;
+  padding: 1%;
+}
+
+.about p {
+  text-align: justify;
+}
+
+.contact {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.contact-details {
+  margin-bottom: 1%;
+}
